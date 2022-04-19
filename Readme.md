@@ -8,7 +8,7 @@ I have 4 years of experience. I have started my career as back end developer slo
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akilan07r@gmail.com](mailto:akilan07r@gmail.com)
-* 🧠  I'm learning Solidity, Vue JS, AWS
+* 🧠  I'm learning Vue JS, AWS, Web3, Blockchain
 * 🤝  I'm open to collaborating on Web3 and Blockchain
 * ⚡  Nothing else...
 
