@@ -1,4 +1,4 @@
-Hi 👋 My name is Akilan R
+Hi 👋 My name is Akilan Ravindran
 =========================
 
 Full Stack Developer
