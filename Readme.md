@@ -8,9 +8,8 @@ I have 5+ years of experience. I have started my career as back end developer sl
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akilan07r@gmail.com](mailto:akilan07r@gmail.com)
-* 🧠  I'm learning Vue JS, AWS, Web3, Blockchain
-* 🤝  I'm open to collaborating on Web3 and Blockchain
-* ⚡  Nothing else...
+* 🧠  I'm good at Java, spring boot, junit and AWS
+* 🤝  I'm open to collaborating on Java, spring boot and Javascript projects
 
 ### Skills
 
