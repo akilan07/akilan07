@@ -4,7 +4,7 @@ Hi 👋 My name is Akilan Ravindran
 Full Stack Developer
 --------------------
 
-I have 5+ years of experience. I have started my career as back end developer slowly learned front end developer. I have worked on the technologies like java, spring boot, React, Vue JS, Maven, Gradle, Oracle, PostgreSql, Mongo DB, Docker, Kubernetes, AWS, GCP, Junit, Jmeter and Jest. Now started Blockchain and Web3 in Ethereum network
+I have 6+ years of experience. I have started my career as back end developer slowly learned front end developer. I have worked on the technologies like java, spring boot, React, Vue JS, Maven, Gradle, Oracle, PostgreSql, Mongo DB, Docker, Kubernetes, AWS, GCP, Junit, Jmeter and Jest. Now started Blockchain and Web3 in Ethereum network
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akilan07r@gmail.com](mailto:akilan07r@gmail.com)
